@@ -1,0 +1,12 @@
+{
+  "mods": [
+    {
+      "modName": "MetamagicExtendedMaximizedSpell",
+      "UUID": "25a3cf4c-6e29-46ca-97ab-ab9ec4a032e0",
+      "folderName": "MetamagicExtendedMaximizedSpell",
+      "Description": "Increases cost of Maximized Spell to be 2 Sorcery Points per Spell Level.",
+      "version": "1.0.0.0",
+      "MD5": ""
+    }
+  ]
+}
